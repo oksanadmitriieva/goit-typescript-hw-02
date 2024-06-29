@@ -1,0 +1,23 @@
+.searchBar {
+  background-color: rgb(199, 33, 33);
+  padding: 15px;
+}
+.form {
+  text-align: center;
+}
+.btn {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+}
+.btn:hover {
+  color: rgb(228, 16, 16);
+}
+.input {
+  margin-right: 10px;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  width: 270px;
+  height: 40px;
+}
